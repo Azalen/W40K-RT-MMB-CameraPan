@@ -1,0 +1,13 @@
+{
+    "Strings": {
+        "azalen.middlemousepan.group.camera": {
+            "Text": "Middle Mouse Pan"
+        },
+        "azalen.middlemousepan.feature.movecamerawithmmb.description": {
+            "Text": "Middle Mouse Pan"
+        },
+        "azalen.middlemousepan.feature.movecamerawithmmb.tooltip-description": {
+            "Text": "Toggles the ability to move the camera when hitting the Middle Mouse Button and then moving the Mouse around."
+        }
+    }
+}

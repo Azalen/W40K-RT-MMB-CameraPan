@@ -1,0 +1,10 @@
+﻿{
+    "Id": "MiddleMousePan",
+    "DisplayName": "Middle Mouse Pan",
+    "Author": "Azalen",
+    "Version": "0.1",
+    "ManagerVersion": "0.25.0",
+    "Requirements": [],
+    "AssemblyName": "MiddleMousePan.dll",
+    "EntryMethod": "MiddleMousePan.Main.Load"
+}
