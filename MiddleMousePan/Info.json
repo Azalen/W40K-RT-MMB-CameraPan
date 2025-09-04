@@ -2,9 +2,11 @@
     "Id": "MiddleMousePan",
     "DisplayName": "Middle Mouse Pan",
     "Author": "Azalen",
-    "Version": "0.1",
+    "Version": "0.3",
     "ManagerVersion": "0.25.0",
     "Requirements": [],
     "AssemblyName": "MiddleMousePan.dll",
-    "EntryMethod": "MiddleMousePan.Main.Load"
+    "EntryMethod": "MiddleMousePan.Main.Load",
+    "HomePage": "https://www.nexusmods.com/warhammer40kroguetrader/mods/326",
+    "Repository": "https://github.com/Azalen/W40K-RT-MMB-CameraPan/tree/main"
 }
